@@ -103,8 +103,5 @@ para evitar que se pueda modificar se coloca final en la firma del metodo
  # SonarQube
 
  ## Evidencia
-![img_4.png](img_4.png)
+![imagen](https://user-images.githubusercontent.com/78180258/116018399-959cdf80-a607-11eb-97ee-b51e75f2e075.png)
 
-![img_5.png](img_5.png)
-
-![img_6.png](img_6.png)
